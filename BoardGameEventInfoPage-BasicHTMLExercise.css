@@ -1,0 +1,40 @@
+body{
+    font-family: 'Anta', monospace;
+    background-color: #f9f9fd;
+}
+div {
+    width: 75%;
+}
+.mainDiv {
+    width: 75%;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+h1 {
+    font-size: 100px;
+    line-height: 1;
+    font-weight: 400px;
+    color: purple;
+}
+
+h2 {
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 200px;
+    color: green;
+}
+
+h3 {
+    font-size: 25px;
+    line-height: 1;
+    font-weight: 100px;
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    text-shadow: 0 -3.25px #0c2ffb, 0 -6.5px #2cfcfb, 0 3.25px #fb203b, 0 6.5px #fefc4b
+}
